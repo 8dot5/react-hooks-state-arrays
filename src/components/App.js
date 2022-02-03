@@ -11,9 +11,9 @@ function App() {
       <Toggle />
       <h3>Counter</h3>
       <Counter />
-      <h3>SpicyFoodList</h3>
+      <h3>SpicyFoodList w heatLevel</h3>
       <SpicyFoodList />
-      <h3>Food Filter</h3>
+      <h3>Food Filter w Li Remove</h3>
       <FoodFilterList />
     </div>
   );
